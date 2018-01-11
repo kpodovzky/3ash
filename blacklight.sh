@@ -21,4 +21,4 @@
 chmod a+x /usr/local/bin/bl
 export EDITOR="vim"
 visudo
-  user_name ALL=(ALL) NOPASSWD: /usr/local/bin/bl
+  user_name ALL=(ALL) NOPASSWD: /usr/local/bin/blacklight
